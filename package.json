@@ -1,0 +1,22 @@
+{
+  "name": "module3-week2day1-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvyLiu0/Module3-Week2Day1-Homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvyLiu0/Module3-Week2Day1-Homework/issues"
+  },
+  "homepage": "https://github.com/IvyLiu0/Module3-Week2Day1-Homework#readme",
+  "dependencies": {
+    "mongodb": "^4.1.1"
+  }
+}
